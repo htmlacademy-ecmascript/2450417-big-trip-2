@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Юлия Виноградова](https://up.htmlacademy.ru/ecmascript-individual/2/user/2450417).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Сударев](https://htmlacademy.ru/profile/id1152185).
 
 ---
 
